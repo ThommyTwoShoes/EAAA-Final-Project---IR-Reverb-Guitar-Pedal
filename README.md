@@ -1,5 +1,5 @@
 # EAAA-public/Teensy-IR-Convolution-Guitar-Pedal
-![img missing](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/blob/main/Img/IMG_20231206_203446372.jpg)
+![img missing](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/blob/main/Img/FrontP.jpg)
   
 Impulse response reverb guitar pedal using FFT convolution
 
@@ -20,7 +20,7 @@ Example:
 https://youtu.be/Zm_i9kC3oEk
 
 Display  
-![alt text](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/blob/main/mainImg.jpg)
+![alt text](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/blob/main/Display.jpg)
 
 Delay is measured at 8 milliseconds.  
 ![alt text](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/blob/main/delay.png)
@@ -35,7 +35,7 @@ Example video of them: [https://www.youtube.com/watch?v=rtive3m2jmM&list=PL1sbzf
 HARDWARE:  
 ![Schematic](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/tree/main/Schematic_teensypedal_2023-12-17.png)
 
-![Hardware picture](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/tree/main/Img/IMG_20231207_183939582.jpg)
+![Hardware picture](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/tree/main/Img/HW.jpg)
  
 Preamp:  
 Preamp consists of a standard JFET opamp TL072 used in many guitar pedals.
