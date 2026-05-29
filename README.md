@@ -23,7 +23,7 @@ Display
 ![alt text](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/blob/main/Img/Display.jpg)
 
 Delay is measured at 8 milliseconds.  
-![alt text]()
+![alt text](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/blob/main/delay.png)
 
 
 My impulse responses can be found in their respective folder
@@ -33,7 +33,7 @@ Example video of them: [https://www.youtube.com/watch?v=rtive3m2jmM&list=PL1sbzf
   
   
 HARDWARE:  
-![Schematic](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/blob/main/delay.png)
+![Schematic](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/blob/main/Schematic.png)
 
 ![Hardware picture](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/blob/main/Img/HW.jpg)
  
