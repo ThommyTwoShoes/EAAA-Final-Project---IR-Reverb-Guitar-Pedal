@@ -20,10 +20,10 @@ Example:
 https://youtu.be/Zm_i9kC3oEk
 
 Display  
-![alt text](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/blob/main/Display.jpg)
+![alt text](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/blob/main/Img/Display.jpg)
 
 Delay is measured at 8 milliseconds.  
-![alt text](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/blob/main/delay.png)
+![alt text](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/blob/main/Img/HW.jpg)
 
 
 My impulse responses can be found in their respective folder
