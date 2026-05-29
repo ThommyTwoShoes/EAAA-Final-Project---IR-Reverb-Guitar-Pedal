@@ -23,7 +23,7 @@ Display
 ![alt text](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/blob/main/Img/Display.jpg)
 
 Delay is measured at 8 milliseconds.  
-![alt text](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/blob/main/Img/HW.jpg)
+![alt text]()
 
 
 My impulse responses can be found in their respective folder
@@ -33,9 +33,9 @@ Example video of them: [https://www.youtube.com/watch?v=rtive3m2jmM&list=PL1sbzf
   
   
 HARDWARE:  
-![Schematic](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/tree/main/Schematic_teensypedal_2023-12-17.png)
+![Schematic](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/blob/main/delay.png)
 
-![Hardware picture](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/tree/main/Img/HW.jpg)
+![Hardware picture](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/blob/main/Img/HW.jpg)
  
 Preamp:  
 Preamp consists of a standard JFET opamp TL072 used in many guitar pedals.
