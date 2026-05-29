@@ -63,3 +63,6 @@ https://www.youtube.com/playlist?list=PL1sbzfK5jrqY0XgC5ed2O-zZGCqtP8Gmu
 Power:  
 A 5V regulator is used to power the teensy's 5V to 3V3 regulator. A cooling element is required to keep at a temp that doesn't burn your fingers.
 In case of a normal guitar pedal, you would use the box for cooling as those are typically of the hammond variety, thick die-cast aluminium.
+
+
+Original repo: https://github.com/ThommyTwoShoes/EAAA-public/tree/Teensy-IR-Reverb-Guitar-Pedal
