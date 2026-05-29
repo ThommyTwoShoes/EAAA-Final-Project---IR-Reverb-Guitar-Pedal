@@ -22,7 +22,7 @@ https://youtu.be/Zm_i9kC3oEk
 Display  
 ![alt text](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/blob/main/mainImg.jpg)
 
-Delay is measured between 6 and 7 secs.  
+Delay is measured at 8 milliseconds.  
 ![alt text](https://github.com/ThommyTwoShoes/EAAA-Final-Project---IR-Reverb-Guitar-Pedal/blob/main/delay.png)
 
 
